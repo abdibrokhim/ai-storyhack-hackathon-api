@@ -1,0 +1,11 @@
+chromadb
+langchain
+pymupdf
+cohere
+openai
+tiktoken
+fastapi
+uvicorn
+python-dotenv
+python-multipart
+requests
